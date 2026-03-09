@@ -1,6 +1,9 @@
 # Binary
 pager
 
+# Cross-compiled release binaries
+/dist/
+
 # Environment / secrets
 .env*
 
